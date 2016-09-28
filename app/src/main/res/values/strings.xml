@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\'m a button</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="content_login">Login</string>
+    <string name="password">Password</string>
+    <string name="title_activity_empty">EmptyActivity</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="enable_something">Enable Something</string>
+</resources>
